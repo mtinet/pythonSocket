@@ -1,13 +1,13 @@
 # pythonSocket
 
 ## 파이썬을 이용해 소켓 통신을 하는 예제  
-### * Basic, Intermediate, Utilize로 나뉘어 있음  
+### 1. Basic, Intermediate, Utilize로 나뉘어 있음  
  - Basic은 일회성 기본 소켓 통신  
  - Intermediate는 클라이언트에서 입력한 데이터를 서버가 무한 수신하는 소켓 통신('exit'를 송신하면 서버 종료)  
  - Utilize는 클라이언트가 보낸 데이터를 서버가 다시 클라이언트에게 되돌려주는 소켓 통신('exit'를 송신하면 서버 종료)  
 
-### IP는 자기 컴퓨터의 IP주소를 넣으면 됨  
-### 자기 IP주소 확인하는 방법  
+### 2. IP는 자기 컴퓨터의 IP주소를 넣으면 됨  
+### 3. 자기 IP주소 확인하는 방법  
 #### Windows :
  - 윈도우 10 왼쪽 하단의 돋보기 그림을 누르고 cmd라고 입력한 다음 엔터를 누름  
  - 검은색 커맨드 창에서 ipconfig를 누르고 엔터  
